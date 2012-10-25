@@ -1,0 +1,179 @@
+h1.technique-two {
+	background: url("http://votesmart.org/img/ajax-loader.gif") top right;
+}
+
+#pvs_search { 
+        width: 206px; 
+        border: 1px #B2B2C9 solid; 
+        padding: 0px; 
+        font-size: .9em; 
+}
+
+/*
+fieldset, legend, .search_box_div, .search_box, and input.submit_button all make up the style of the search box and button
+*/
+
+#pvs_search * {
+        font-family: helvitica, verdana, arial;
+}
+
+#pvs_search a:link, #pvs_search a:visited { color: #093679; }
+#pvs_search a:hover { color: #c71719; }
+#pvs_search a:focus { color: #725959; }
+
+#pvs_search fieldset {
+        border: #26a solid 2px;
+        width: 175px; 
+        padding: 10px;
+}
+
+#pvs_search legend {
+        background: #EDF5FD;
+        border: #26a solid 1px;
+        padding: 1px 10px
+} 
+#pvs_search .search_box_div{
+        margin: 0px auto;
+        padding: 0px;
+	color: #555555; 
+	background-color: #eeeeee; 
+	border: 1px solid; 
+	width: 180px;
+}
+#pvs_search .search_box{
+	background:none;
+	border:none;
+	width:200px;
+	height:18px;
+	margin:0;
+	padding: 0px 1px 0px 1px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+} 
+
+#pvs_search input.submit_button {
+	border-top: 1px solid #00F;
+	border-right: 0;
+	border-bottom: 1px solid #00F;
+	border-left: 0;
+	color: #FFF;
+	display: inline;
+	margin: 0;
+	padding: 0;
+        background-color: transparent;
+}
+#pvs_search ul.presidential_candidate { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search ul.federal_judicial_candidate { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search ul.congressional_candidate { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search ul.gubernatorial_candidate { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search ul.state_candidate { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search ul.state_wide_candidate { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search ul.presidential_official { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search ul.federal_judicial_official { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search ul.congressional_official { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search ul.gubernatorial_official { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search ul.state_official { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search ul.state_wide_official { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search .pvs_search_widget { 
+        font-size: 1em; 
+        color: #676767;
+        padding-left: 5px; 
+        margin: 15px auto;
+} 
+#pvs_search .pvs_search_widget_li { 
+        font-size: .9em; 
+        padding-bottom: 5px; 
+}
+#pvs_search .pvs_search_widget_ul { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search .pvs_search_widget_ul_o { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search .pvs_search_widget_ul_c { 
+        list-style: none; 
+        padding-left: 5px; 
+        padding-bottom: 0px; 
+        margin-left: 0px; 
+} 
+#pvs_search .pvs_header1 {
+        padding: 5px;
+        font-weight: bold;
+        font-size: 120%;
+}
+#pvs_search .pvs_header2 {
+        padding: 5px;
+        font-weight: bold;
+        font-size: 110%;
+}
+#pvs_search .pvs_special {
+        padding: 5px;
+        font-weight: bold;
+        color: #C53535;
+}
