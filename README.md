@@ -7,7 +7,7 @@ A javascript widget that allows someone to find a list of their representatives 
 
 USING THE WIDGET
 ================
-Place the code on to your server where it is publicly accessable.
+Place the code on to your server where it is publicly accessible.
 
 Edit `init.search1.js` to reflect the proper settings.
 
