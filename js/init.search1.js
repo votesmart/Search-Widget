@@ -3,7 +3,7 @@
  * Project Vote Smart Widgets
  * Copyright 2009 Project Vote Smart
  * 
- * Widget code released onder the BSD License
+ * Widget code released under the BSD License
  * http://www.opensource.org/licenses/bsd-license.php
  * 
  * Documentation http://api.votesmart.org/docs/widgets/
